@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: coffee
+theme: earth
 day_night: false
-font: ''
+font: 'Mr Robot'
 font_size: L
 
 # SEO
