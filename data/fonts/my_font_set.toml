@@ -6,6 +6,6 @@ google_fonts = "family=Oswald&family=Roboto&family=Roboto+Mono&family=Architects
 
 # Font families
 heading_font = "Architects+Daughter"
-body_font = "Architects+Daughter"
-nav_font = "Architects+Daughter"
-mono_font = "Architects+Daughter"
+body_font = "Roboto"
+nav_font = "Oswald"
+mono_font = "Roboto Mono"
