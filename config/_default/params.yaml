@@ -7,10 +7,11 @@
 
 theme: 'custom'
 day_night: false
-font: 'my_font_set' 
+font: '' 
 font_size: L
 
 # SEO
+font: 'my_font_set'
 
 site_type: Person
 local_business_type: ''
