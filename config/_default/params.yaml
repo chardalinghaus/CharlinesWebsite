@@ -7,7 +7,7 @@
 
 theme: 'custom'
 day_night: false
-font: 'My Font Set'
+font: my_font_set
 font_size: L
 
 # SEO
